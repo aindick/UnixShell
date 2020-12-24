@@ -1,0 +1,3 @@
+C:/Users/13154/Documents/GitHub/UnixShell/cmake-build-debug/CMakeFiles/UnixShell.dir
+C:/Users/13154/Documents/GitHub/UnixShell/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/13154/Documents/GitHub/UnixShell/cmake-build-debug/CMakeFiles/rebuild_cache.dir
